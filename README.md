@@ -55,10 +55,14 @@
 
 ---
 
-<!-- TODO: uncomment and fill in to show featured projects:
 ## ⭐ Featured Projects
-- [exo](https://github.com/stdjhs/exo) - one-line description
--->
+
+| Project | Description | Stack |
+|---|---|---|
+| [exo](https://github.com/stdjhs/exo) | Qingyang exoskeleton control system | Python |
+| [monad-place](https://github.com/stdjhs/monad-place) | On-chain r/place: a thousand-player pixel war - Monad Blitz Beijing @V2 hackathon project | TypeScript |
+| [qingyang-zhitong-web](https://github.com/stdjhs/qingyang-zhitong-web) | Official site for steel quality data infrastructure | HTML |
+| [HauntedHackathon](https://github.com/stdjhs/HauntedHackathon) | Hackathon project (Oct 31) | TypeScript |
 
 <div align="center">
 
